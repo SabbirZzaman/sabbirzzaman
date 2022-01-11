@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @sabbirzzaman
-- 👀 I’m interested in ... Web Application
-- 🌱 I’m currently learning ... React.js
-- 💞️ I’m looking to collaborate on ... React.js
-- 📫 How to reach me ... [Portfolio](https://www.sabbirzzaman.com)
 
-<!---
-SabbirZzaman/SabbirZzaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h2 align="center">Hi all, I'm Sabbir Zzaman <img src="https://twemoji.maxcdn.com/2/72x72/1f44b.png"></h2>
+
+<h3 align="center">Programmer | MERN Stack | Learner</h3>
