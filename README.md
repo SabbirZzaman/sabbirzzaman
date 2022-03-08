@@ -1,6 +1,6 @@
 <img src="https://cdn.hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif">
 
-<h2 align="center">HI, I'M SABBIR ZZAMAN :wave:</h2>
+<h3 align="center">HI, I'M SABBIR ZZAMAN :wave:</h3>
 
 <h3>ABOUT ME :point_down:</h3>
   <p>I'm working as a freelance Frontend Developer. Currently, I'm learning MREN and Web Application Development. For Development I use SASS, Javascript, React, WordPress, etc. I love to learn, explore, and work on new technologies. I'm a passionate learner, I strongly believe there is always "One More Thing" to learn. </p>
