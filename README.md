@@ -8,10 +8,10 @@
 <h3>FIND ME ELSEWHERE :point_down: :point_down:</h3>
 
 <p align="left">
-  <a href="https://www.facebook.com/sz.tonmoy1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/sabbir-zzaman/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-<a href="https://www.instagram.com/sztonmoy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/17064354/sabbir-zzaman"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+  <a target="_blank" href="https://www.facebook.com/sz.tonmoy1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a target="_blank" href="https://www.linkedin.com/in/sabbir-zzaman/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<a target="_blank" href="https://www.instagram.com/sztonmoy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a target="_blank" href="https://stackoverflow.com/users/17064354/sabbir-zzaman"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
 
 <h3>I BUILD WITH :point_down:</h3>
