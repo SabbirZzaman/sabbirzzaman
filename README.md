@@ -3,7 +3,8 @@
 A Freelance Frontend Developer. I started my journey as a web designer in 2018. As well as work I also continued to keep learning and exploring new technologies for updating myself. I've made myself more efficient and productive. I love to learn new technologies and work on them. I strongly believe there is always "One More Thing" to learn.
 
 ![Twitter followers](https://img.shields.io/twitter/follow/sabbir_zzaman?style=social)
-![GitHub followers](https://img.shields.io/github/followers/sabbirzzaman.svg?style=social&label=Follow&maxAge=2592000)
+[![Linkedin: sabbir-zzaman](https://img.shields.io/badge/-sabbirzzaman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabbir-zzaman/)](https://www.linkedin.com/in/sabbir-zzaman/)
+![](https://visitor-badge.glitch.me/badge?page_id=sabbirzzaman)
 
 ### aboutMe.js
 
