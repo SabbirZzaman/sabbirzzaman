@@ -1,11 +1,31 @@
-<img src="https://cdn.hackernoon.com/images/1*KBGdMaU_emZX4XR1AvkD4A.gif">
+# Hi, This Is Sabbir Zzaman
 
-<h3 align="center">HI, I'M SABBIR ZZAMAN :wave:</h3>
+A Freelance Frontend Developer. I started my journey as a web designer in 2018. As well as work I also continued to keep learning and exploring new technologies for updating myself. I've made myself more efficient and productive. I love to learn new technologies and work on them. I strongly believe there is always "One More Thing" to learn.
 
-<h3>ABOUT ME :point_down:</h3>
-  <p>I'm working as a freelance Frontend Developer. Currently, I'm learning MREN and Web Application Development. For Development I use SASS, Javascript, React, WordPress, etc. I love to learn, explore, and work on new technologies. I'm a passionate learner, I strongly believe there is always "One More Thing" to learn. </p>
+![Twitter followers](https://img.shields.io/twitter/follow/sabbir_zzaman?style=social)
+![GitHub followers](https://img.shields.io/github/followers/sabbirzzaman.svg?style=social&label=Follow&maxAge=2592000)
 
-<h3>FIND ME ELSEWHERE :point_down: :point_down:</h3>
+### aboutMe.js
+
+```javascript
+const sabbirzzaman = {
+    pronouns: "he" | "him",
+    code: ["Javascript", "HTML", "CSS"],
+    askMeAbout: ["web dev", "tech", "music", "coffee"],
+    technologies: {
+        frontEnd: {
+            framework: ["react.js", "redux"],
+            css: ["tailwind", "bootstrap", "SASS", "material ui"]
+        },
+        backEnd: {
+            js: ["firebase", "node.js", "express.js", "mongodb"]
+        },
+        CMS: "WordPress"
+    }
+};
+```
+
+### findMeOn
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sabbir-zzaman/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -14,7 +34,7 @@
 <a href="https://stackoverflow.com/users/17064354/sabbir-zzaman"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
 
-<h3>I BUILD WITH :point_down:</h3>
+### iBuildWIth
 <p align="left">
 <img src="https://camo.githubusercontent.com/abedb1ff88fca4003da0fe4deb5dc44f75f688c06f1fb950694dc0a5eb182107/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3030303030303f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666266c6162656c436f6c6f723d453334463236" alt="HTML%">
 <img src="https://camo.githubusercontent.com/cf8c6d8c66fafdffd2d1de7dc2322ea277c7fff2ba7a25e484542977bdc95e5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3030303030303f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d666666666666266c6162656c436f6c6f723d313537324236" alt="CSS3">
