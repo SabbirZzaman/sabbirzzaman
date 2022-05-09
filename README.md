@@ -15,7 +15,7 @@ const sabbirzzaman = {
     askMeAbout: ["web dev", "tech", "music", "coffee"],
     technologies: {
         frontEnd: {
-            framework: ["react.js", "redux"],
+            framework: ["react.js"],
             css: ["tailwind", "bootstrap", "SASS", "material ui"]
         },
         backEnd: {
