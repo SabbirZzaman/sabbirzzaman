@@ -35,8 +35,6 @@ const sabbirzzaman = {
   
  </div>
 
- <div align="center">
- 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=sabbirzzaman&theme=holi-theme)](https://git.io/streak-stats)
-  
- </div>
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sabbirzzaman&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=sabbirzzaman&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
