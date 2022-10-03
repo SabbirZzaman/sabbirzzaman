@@ -33,9 +33,8 @@ const sabbirzzaman = {
   
  </div>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbirzzaman&show_icons=true&theme=dark">
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirzzaman&layout=compact&theme=dark">
-</p>
+ <div align="center">
+ 
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=sabbirzzaman&theme=holi-theme)](https://git.io/streak-stats)
+  
+ </div>
