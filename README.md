@@ -26,6 +26,8 @@ const sabbirzzaman = {
 };
 ```
 
+![Snake animation](substitute sabbirzzaman to yours in the link here)
+
 ### reachMeOut
 
 <p align="left">
