@@ -22,7 +22,7 @@ const sabbirzzaman = {
             js: ["firebase", "node.js", "express.js", "mongodb"]
         },
         CMS: "WordPress",
-        tools: ["GitHub", "VS Code", "NPM", "Figma", "Trello", ""Slack]
+        tools: ["GitHub", "VS Code", "NPM", "Figma", "Trello", "Slack"]
     }
 };
 ```
