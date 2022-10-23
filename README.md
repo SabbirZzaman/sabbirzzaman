@@ -1,6 +1,6 @@
 # Hi, This Is Sabbir Zzaman
 
-A frontend developer specializing in building functional web applications. Interested in the entire frontend spectrum and working on ambitious projects with positive people
+A frontend developer specializing in building functional web applications. Interested in the entire frontend spectrum and working on ambitious projects with positive people.
 
 I started my journey in 2018. As well as work I also continued to keep learning and exploring new technologies for updating myself. I've made myself more efficient and productive. I love to learn new technologies and work on them. I have strong working skills with React.js, Redux, and JavaScript in Building functional UI for both smaller and larger projects.
 
