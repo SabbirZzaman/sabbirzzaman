@@ -13,7 +13,7 @@ I started my journey in 2018. As well as work I also continued to keep learning 
 ```javascript
 const sabbirzzaman = {
     pronouns: "he" | "him",
-    code: ["Javascript", "HTML", "CSS"],
+    code: ["Javascript", "TypeScript", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "music", "coffee"],
     technologies: {
         frontEnd: {
