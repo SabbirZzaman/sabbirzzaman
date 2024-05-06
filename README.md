@@ -27,13 +27,3 @@ const sabbirzzaman = {
     }
 };
 ```
-
- <div align="center">
- 
-  ![Snake animation](https://github.com/sabbirzzaman/sabbirzzaman/blob/output/github-contribution-grid-snake.svg)
-  
- </div>
-
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sabbirzzaman&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=sabbirzzaman&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
